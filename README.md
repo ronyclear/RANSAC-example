@@ -13,5 +13,5 @@
 ## 运行结果  
 <img src="./ransac_line_fitting.png" alt="RANSAC 直线拟合" width="400">
 
-## Inference
+## Reference
 - https://www.cnblogs.com/hansjorn/p/16804509.html
